@@ -19,23 +19,7 @@ Atualmente estou focado em:
  PostgreSQL | MySQL | MongoDB
  Git | Docker | Linux
  Excel (Avançado) | Power BI | Power Query
-
- Projetos
-
-Aqui estão alguns dos projetos que mais me orgulho de ter desenvolvido. Eles representam minha jornada de aprendizado e minha capacidade de aplicar a tecnologia para criar soluções funcionais.
-
-|  API RESTful para E-commerce | API robusta para gerenciamento de produtos e usuários, com foco em segurança e boas práticas de arquitetura. | `Java`, `Spring Boot`, `PostgreSQL`, `JWT` | [Repositório](https://github.com/luizhenriqmatos/link-para-seu-projeto) |
-|  Automação de Cadastros em Massa | Script para automatizar o cadastro de produtos, otimizando fluxos de trabalho e aumentando a eficiência operacional. | `Python`, `Selenium`, `Pandas` | [Repositório](https://github.com/luizhenriqmatos/link-para-seu-projeto) |
-|  Jogos de Lógica (Xadrez e Batalha Naval)| Implementação de jogos clássicos focados no desenvolvimento de raciocínio lógico e algoritmos eficientes. | `C`, `Estrutura de Dados` | [Repositório](https://github.com/luizhenriqmatos/link-para-seu-projeto) |
-|  Dashboard de Análise de Vendas | Painel interativo para visualização de métricas de vendas, permitindo a análise de performance por produto e região. | `Power BI`, `DAX`, `Excel`, `SQL` | [Link Interativo](#) |
-
-
-
----
-
-### 🤖 Linguagens e Tecnologias
-
-<img 
+ <img 
     align="left" 
     alt="HTML"
     title="HTML" 
@@ -152,7 +136,19 @@ Aqui estão alguns dos projetos que mais me orgulho de ter desenvolvido. Eles re
 <br/>
 
 
+ Projetos
 
+Aqui estão alguns dos projetos que mais me orgulho de ter desenvolvido. Eles representam minha jornada de aprendizado e minha capacidade de aplicar a tecnologia para criar soluções funcionais.
+
+|  API RESTful para E-commerce | API robusta para gerenciamento de produtos e usuários, com foco em segurança e boas práticas de arquitetura. | `Java`, `Spring Boot`, `PostgreSQL`, `JWT` | [Repositório](https://github.com/luizhenriqmatos/link-para-seu-projeto) |
+
+|  Automação de Cadastros em Massa | Script para automatizar o cadastro de produtos, otimizando fluxos de trabalho e aumentando a eficiência operacional. | `Python`, `Selenium`, `Pandas` | [Repositório](https://github.com/luizhenriqmatos/link-para-seu-projeto) |
+
+|  Jogos de Lógica (Xadrez e Batalha Naval)| Implementação de jogos clássicos focados no desenvolvimento de raciocínio lógico e algoritmos eficientes. | `C`, `Estrutura de Dados` | [Repositório](https://github.com/luizhenriqmatos/link-para-seu-projeto) |
+
+|  Dashboard de Análise de Vendas | Painel interativo para visualização de métricas de vendas, permitindo a análise de performance por produto e região. | `Power BI`, `DAX`, `Excel`, `SQL` | [Link Interativo](#) |
+
+---
 
 * **LinkedIn:** [linkedin.com/in/luiz-henrique-matos-794504284](https://www.linkedin.com/in/luiz-henrique-matos-794504284)
 * **E-mail:** [luizhenriquematos18@gmail.com](mailto:luizhenriquematos18@gmail.com)
