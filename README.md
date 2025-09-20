@@ -159,10 +159,4 @@ Aqui estão alguns dos projetos que mais me orgulho de ter desenvolvido. Eles re
 📫 Como me Encontrar: luizhenriquematos18@gmail.com
 
 
-<img src="https://raw.githubusercontent.com/luizhenriqmatos/luizhenriqmatos/output/snake.svg" alt="Snake animation" />
 
-###
-
-<img src="https://raw.githubusercontent.com/luizhenriqmatos/luizhenriqmatos/output/snake.svg" alt="Snake animation" />
-
-###
