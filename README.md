@@ -6,7 +6,7 @@ Sou um desenvolvedor Full Stack e estudante de Engenharia de Software e Análise
 Estou sempre em busca de novos desafios e oportunidades para aplicar minhas habilidades em um ambiente dinâmico e colaborativo, especialmente em projetos que possam otimizar processos e gerar valor.
 
 Atualmente estou focado em:
-* Aprimorar minhas habilidades em arquitetura de microsserviços com Java e Spring Boot.
+* Aprimorar minhas habilidades em arquitetura de microsserviços com Python e Django/Fast API, Java e Spring Boot.
 * Explorar novas ferramentas de análise de dados e Business Intelligence.
 * Contribuir para projetos de código aberto.
 
